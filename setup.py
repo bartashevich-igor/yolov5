@@ -14,8 +14,8 @@ REQUIREMENTS = [f'{x.name}{x.specifier}' for x in pkg.parse_requirements((PARENT
 
 
 setup(
-    name='ultralytics',  # name of pypi package
-    version='8.0.112',  # version of pypi package
+    name='yolov5',  # name of pypi package
+    version='7.0.12',  # version of pypi package
     python_requires='>=3.7',
     license='AGPL-3.0',
     description=('Ultralytics YOLOv8 for SOTA object detection, multi-object tracking, instance segmentation, '
