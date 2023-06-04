@@ -22,11 +22,11 @@ setup(
                  'pose estimation and image classification.'),
     long_description=README,
     long_description_content_type='text/markdown',
-    url='https://github.com/ultralytics/ultralytics',
+    url='https://github.com/bartashevich-igor/yolov5',
     project_urls={
         'Bug Reports': 'https://github.com/ultralytics/ultralytics/issues',
         'Funding': 'https://ultralytics.com',
-        'Source': 'https://github.com/ultralytics/ultralytics'},
+        'Source': 'https://github.com/bartashevich-igor/yolov5'},
     author='Ultralytics',
     author_email='hello@ultralytics.com',
     packages=find_packages(),  # required
